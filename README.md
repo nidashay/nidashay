@@ -20,7 +20,7 @@ I'm a passionate young developer who loves building things from scratch and unde
 **Languages**
 
 * 🐍 Python
-* ⚙️ C++
+* ⚙️ C/C++
 * ☕ Java
 
 **Tools & Tech**
