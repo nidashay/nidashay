@@ -18,11 +18,11 @@
 </p>
 
 ## 🧠 My Focus Areas
-- Web Development (MERN Stacck)
+- Systems Programming (MAIN FOCUS)
 - Cyber Security
-- AI & Ml
-- OS => Kali Linux
-- BASH --- Bourne Again Shell
+- C/C++ Programmer
+- OS => Arch Linux (I Use arch BTW...)
+- Terminal => Allacritty + zsh + ohmyzsh
 
 
 <div align="center">
