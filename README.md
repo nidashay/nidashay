@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pro-mwas1234">
-    <img src="https://komarev.com/ghpvc/?username=pro-mwas12349&label=Profile%20views&color=00FFFF&style=flat-square" alt="pro-mwas1234's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=nidashay">
+    <img src="https://komarev.com/ghpvc/?username=nidashay&label=Profile%20views&color=00FFFF&style=flat-square" alt="nidashay's profile views" />
   </a>
 </p>
 
