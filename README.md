@@ -25,16 +25,6 @@
 - Terminal => Allacritty + zsh + ohmyzsh
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidashay&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=nidashay&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidashay&layout=compact&theme=tokyonight" />
-</div>
-
-
-
 # 💻 Tech Stack:
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
