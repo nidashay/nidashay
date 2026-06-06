@@ -50,12 +50,17 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nidashay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nidashay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidashay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nidashay&theme=chartreuse_dark)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidashay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidashay&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nidashay&theme=tokyonight"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nidashay&theme=radical&no-frame=false&no-bg=false&margin-w=4)
