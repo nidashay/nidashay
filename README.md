@@ -57,6 +57,15 @@
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e64db-e1ca-72ae-ae3a-dfd4708aeff2)
 
+<p align="center">
+  <a href="https://github.com/nidashay">
+    <img src="https://img.shields.io/badge/GitHub-nidashay-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://profile.hackthebox.com/profile/019e64db-e1ca-72ae-ae3a-dfd4708aeff2">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
