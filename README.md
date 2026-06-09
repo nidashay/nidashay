@@ -55,7 +55,6 @@
 ## 🏆 Achievements 
 ![](https://github-profile-trophy.vercel.app/?username=nidashay&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e64db-e1ca-72ae-ae3a-dfd4708aeff2)
 
 <p align="center">
   <a href="https://github.com/nidashay">
