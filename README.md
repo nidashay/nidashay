@@ -17,12 +17,6 @@
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Headphone.png" width="25" height="25" alt="Spotify" /> Spotify Data Card
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31jrnuy2pzjelm5ntwersbzl7fze">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31jrnuy2pzjelm5ntwersbzl7fze" alt="Data Card for Spotify">
-</a>
-
 ## 🧠 My Focus Areas
 - Systems Programming (MAIN FOCUS)
 - Cyber Security
