@@ -4,6 +4,11 @@
 🇰🇪 Based in Kenya
 
 ---
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Headphone.png" width="25" height="25" alt="Spotify" /> Spotify Data Card
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31jrnuy2pzjelm5ntwersbzl7fze">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31jrnuy2pzjelm5ntwersbzl7fze" alt="Data Card for Spotify">
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Clinton_Gethi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20&descSize=18&descAlignY=55&textBg=false"/>
 
